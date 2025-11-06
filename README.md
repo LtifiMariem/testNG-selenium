@@ -52,7 +52,7 @@ sélénium-TestNG/
 
 
 
-\- \*\*Langage :\*\* Java 8
+\- \*\*Langage :\*\* Java 17
 
 \- \*\*Framework de test :\*\* TestNG
 
